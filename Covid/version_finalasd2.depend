@@ -1,0 +1,80 @@
+# depslib dependency file v1.0
+1589163549 source:c:\users\amna\desktop\version_finalasd2\ctrsaisie.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1589163473 source:c:\users\amna\desktop\version_finalasd2\gestion_hopital.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	"gestion_hopital.h"
+
+1589166279 c:\users\amna\desktop\version_finalasd2\gestion_hopital.h
+
+1589163643 source:c:\users\amna\desktop\version_finalasd2\hopital.c
+	<string.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	"hopital.h"
+
+1589163270 c:\users\amna\desktop\version_finalasd2\hopital.h
+
+1589163928 source:c:\users\amna\desktop\version_finalasd2\perso_quar.c
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<dos.h>
+	"perso_quar.h"
+
+1589163380 c:\users\amna\desktop\version_finalasd2\perso_quar.h
+
+1589163440 source:c:\users\amna\desktop\version_finalasd2\lstpatient.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"eltprim.h"
+	"eltpatient.h"
+	"lstpatient.h"
+
+1589163323 c:\users\amna\desktop\version_finalasd2\eltprim.h
+	"ELTSDD.H"
+	"lstpatient.h"
+
+1589163411 c:\users\amna\desktop\version_finalasd2\eltsdd.h
+	"eltpatient.h"
+	"lstpatient.h"
+
+1589164573 c:\users\amna\desktop\version_finalasd2\eltpatient.h
+
+1589163348 c:\users\amna\desktop\version_finalasd2\lstpatient.h
+	"ELTPRIM.h"
+	"eltpatient.h"
+
+1589166329 source:c:\users\amna\desktop\version_finalasd2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"lstpatient.h"
+	"eltpatient.h"
+	"hopital.h"
+	"ctrsaisie.h"
+
+1589163741 c:\users\amna\desktop\version_finalasd2\ctrsaisie.h
+
+1589164770 source:c:\users\amna\desktop\version_finalasd2\eltpatient.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"ctrsaisie.h"
+	"eltprim.h"
+
